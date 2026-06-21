@@ -2,7 +2,7 @@
 ## My Projects
 ### Project 1
 
-![Histogram] (/hisogramexample.png)
+![Histogram] (/histogramexample.png)
 
 ### Project 2
 
