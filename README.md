@@ -84,5 +84,6 @@ It would also be advisable to rerun the model on a defined schedule to monitor c
 It is important that the schedule is set at an appropriate time to allow the data to grow sufficiently enough as using data with only a small number of sales could lead to false conclusions or the K-Means to cluster ineffectively. 
 Lastly in using a model to determine customer persona target marketing, implementation should consider the risk that inferred personas could produce unequal offers, reinforce proxy bias or become treated as fixed customer identities. Profiles should therefore be reviewed periodically and used with human oversight. Naz and Kashif (2025) argue that the use of Artificial Intelligence (AI) in predictive marketing raises important ethical concerns relative to bias, market concentration and consumer manipulation.
 
-
+## Portfolio
+See the customer segmentation portfolio PDFs for the full images and references
 
